@@ -24,7 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = '';
-$config['base_url'] = 'http://localhost/v88/codeigniter/04feedbackform';
+// $config['base_url'] = 'http://auth.local/';
+$config['base_url'] = 'http://localhost/v88/codeigniter/09authentication/';
 $config['index_page'] = '';
 
 /*

@@ -99,5 +99,5 @@ $db['default'] = array(
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
 $db['default']['password'] = '1234';// default password is root for Mac and an empty string ('') for PCs
-$db['default']['database'] = 'sakila';// this will be your schema name
+$db['default']['database'] = 'v88';// this will be your schema name
 $db['default']['dbdriver'] = 'mysqli';

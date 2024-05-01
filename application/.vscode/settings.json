@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/*.html": true,
+        "**/*.htaccess": true
+    }
+}
