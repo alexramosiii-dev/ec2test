@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $config['base_url'] = '';
 // $config['base_url'] = 'http://auth.local/';
-$config['base_url'] = 'http://ec2-3-27-181-44.ap-southeast-2.compute.amazonaws.com/ec2test/';
+$config['base_url'] = 'http://ec2-3-27-181-44.ap-southeast-2.compute.amazonaws.com/ec2test';
 $config['index_page'] = '';
 
 /*
